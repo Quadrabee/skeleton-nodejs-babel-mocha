@@ -24,3 +24,10 @@ A report will be generated in `tests/test-results.xml`. This file is compatible 
 Command: `npm run test:coverage`
 
 The coverage report will be generated in the folder `coverage/`.
+
+## Run the linter:
+Command: `npm run lint`
+
+## Run the linter (and fix errors):
+Command: `npm run lint:fix`
+
